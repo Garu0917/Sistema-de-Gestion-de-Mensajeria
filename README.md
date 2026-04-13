@@ -31,3 +31,9 @@ Se utilizó Git y GitHub para el control de versiones con la siguiente estructur
 - `develop`: rama de desarrollo
 
 ## 📁 Estructura del Proyecto
+Sistema de Gestion de Mensajeria/
+├── README.md
+├── documentacion/
+│   └── Proyecto.docx (Insumo de Jira - Especificaciones del proyecto)
+└── [Otras carpetas y archivos del proyecto]
+```
